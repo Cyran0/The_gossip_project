@@ -1,0 +1,27 @@
+<h1><a href="/home">The Gossip Project</a></h1>
+<h2>Homepage</h2>
+
+<ul>
+	<li><a href="/team">Our team</a></li>
+	<li><a href="/contact">Contact</a></li>
+</ul>
+
+<p> 
+	<table style="width:100%">
+		<tr>
+			<th>Author</th>
+			<th>Gossip</th>
+			<th>Link</th>
+		</tr>
+
+		<% @gossips.each_with_index do |potin|%>
+		<tr>
+			<td><%= potin.author %></td>
+			<td><%= potin.content %></td>
+			<td><a href="/gossip/<%= potin.id %>">Gossip n°<%= potin.id %></a></td>
+		</tr>
+		<% end %>
+	</table> 
+</p>
+
+	

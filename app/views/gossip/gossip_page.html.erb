@@ -1,0 +1,18 @@
+<h1><a href="/home">The Gossip Project</a></h1>
+<h2>Gossip n°<%= @gossip_id.id %></h2>
+
+<p> 
+	<table style="width:100%">
+		<tr>
+			<th>Author</th>
+			<th>Gossip</th>
+			<th>Creation date</th>
+		</tr>
+
+		<tr>
+			<td><%= @gossip_id.author %></td>
+			<td><%= @gossip_id.content %></td>
+			<td><%= @gossip_id.creation_date %></td>
+		</tr>
+	</table> 
+</p>
