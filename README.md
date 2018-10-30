@@ -4,12 +4,12 @@ The Gossip Project made by :
 
 Here are the differents page you can discover :
 
-- Homepage : https://fierce-retreat-94305.herokuapp.com/
-- Team page : https://fierce-retreat-94305.herokuapp.com/team
-- Contact page : https://fierce-retreat-94305.herokuapp.com/contact
+- Homepage : https://evening-plateau-72695.herokuapp.com/
+- Team page : https://evening-plateau-72695.herokuapp.com/team
+- Contact page : https://evening-plateau-72695.herokuapp.com/contact
 
-- Gossip n°1 : https://fierce-retreat-94305.herokuapp.com/gossip/1
+- Gossip n°1 : https://evening-plateau-72695.herokuapp.com/gossip/1
 (Note : changez le numéro par le numéro du gossip désiré)
 
-- Welcome page : https://fierce-retreat-94305.herokuapp.com/welcome/bernard
+- Welcome page : https://evening-plateau-72695.herokuapp.com/welcome/bernard
 (Note : changez le prénom par le prénom souhaité)
