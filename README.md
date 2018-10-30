@@ -1,6 +1,6 @@
 The Gossip Project made by :
-- Shayane YAKATALY
-- Victor RATTANASAMAY
+- Recep Karabulut
+- Evan Bourgouin
 
 Here are the differents page you can discover :
 
